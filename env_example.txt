@@ -1,0 +1,12 @@
+# API Keys for the PDF Chat RAG Application
+
+# Google API Key for Gemini LLM (Recommended - Free tier available)
+# Get your API key from: https://makersuite.google.com/app/apikey
+GOOGLE_API_KEY=your_google_api_key_here
+
+# HuggingFace API Key (Alternative option)
+# Get your API key from: https://huggingface.co/settings/tokens
+HUGGINGFACE_API_KEY=your_huggingface_api_key_here
+
+# Note: You only need one of the above API keys
+# Google API Key is recommended as it provides free access to Gemini Pro 
