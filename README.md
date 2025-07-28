@@ -2,11 +2,6 @@
 
 A powerful Python application that allows you to chat with multiple PDF documents using Retrieval-Augmented Generation (RAG). Ask questions about your PDFs in natural language and get intelligent, context-aware responses.
 
-## Architecture
-
-![Architecture Diagram](images/architecture.png)
-
-
 
 ## ✨ Features
 
@@ -20,7 +15,7 @@ A powerful Python application that allows you to chat with multiple PDF document
 
 ## Architecture
 
-
+![Architecture Diagram](images/architecture.png)
 
 ## 🚀 Quick Start
 
