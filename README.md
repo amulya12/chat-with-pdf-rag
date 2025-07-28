@@ -2,6 +2,7 @@
 
 A powerful Python application that allows you to chat with multiple PDF documents using Retrieval-Augmented Generation (RAG). Ask questions about your PDFs in natural language and get intelligent, context-aware responses.
 
+
 ## ✨ Features
 
 - **Multi-PDF Support**: Upload and chat with multiple PDF documents simultaneously
@@ -11,6 +12,10 @@ A powerful Python application that allows you to chat with multiple PDF document
 - **Source Attribution**: See exactly which pages and documents your answers come from
 - **Beautiful UI**: Modern Streamlit interface with intuitive design
 - **Real-time Processing**: Instant PDF processing and question answering
+
+## Architecture
+
+![Architecture Diagram](images/architecture.png)
 
 ## 🚀 Quick Start
 
@@ -206,10 +211,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - [LangChain](https://langchain.com/) for the RAG framework
@@ -217,14 +218,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Google AI](https://ai.google/) for Gemini LLM and text-embedding-gecko
 - [HuggingFace](https://huggingface.co/) for alternative models
 - [FAISS](https://github.com/facebookresearch/faiss) for vector search
-
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the troubleshooting section above
-2. Review the logs for error messages
-3. Open an issue on GitHub with detailed information
 
 ---
 
